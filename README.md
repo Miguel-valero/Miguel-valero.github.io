@@ -50,14 +50,10 @@ margin-top:40px;
 </style>
 </head>
 <body>
-
-
 <header>
 <h1>🚀 Mi primera web en GitHub</h1>
 <p>Subida con GitHub Pages</p>
 </header>
-
-
 <section>
 <div class="card">
 <h2>Hola mundo 👋</h2>
@@ -66,13 +62,9 @@ margin-top:40px;
 <button onclick="saludar()">Haz clic aquí</button>
 </div>
 </section>
-
-
 <footer>
 <p>Hecho por mí ❤️ | 2026</p>
 </footer>
-
-
 <script>
 function saludar(){
 alert("¡Funciona perfecto! 😎 Tu web ya está activa");
